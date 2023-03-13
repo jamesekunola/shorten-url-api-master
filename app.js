@@ -7,7 +7,7 @@ console.log("rock and roll");
 // console.log(menuContainer);
 
 // event listners
-hambugerMenu.addEventListener("click", toggleMobileNavlinks);
+hambugerMenuBtn.addEventListener("click", toggleMobileNavlinks);
 
 // functions
 function toggleMobileNavlinks() {
